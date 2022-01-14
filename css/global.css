@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-size: 18px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+section {
+  font-family: "Fraunces", serif;
+}
+
+.page-section {
+  padding: 6rem 0;
+}
+
+.page-section-heading {
+  font-size: 3rem;
+}
+
+.divider {
+  border: 5px solid #1abc9c !important;
+  border-radius: 5px;
+  width: 5rem;
+  margin: 1.5rem auto;
+  border: 0;
+  opacity: 1;
+}
+
+.btn-secondary {
+  background-color: #1abc9c !important;
+}
+/*# sourceMappingURL=global.css.map */
